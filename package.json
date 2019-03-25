@@ -1,5 +1,5 @@
 {
-  "name": "custombutton",
+  "name": "custom-bottom",
   "version": "1.1.0",
   "description": "",
   "main": "lib/index.js",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chaelaugh/smallButton.git"
+    "url": "git+https://github.com/lutaian-fj/custom-bottom.git"
   },
   "author": "lutaian",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chaelaugh/smallButton/issues"
+    "url": "https://github.com/lutaian-fj/custom-bottom/issues"
   },
-  "homepage": "https://github.com/chaelaugh/smallButton#readme",
+  "homepage": "https://github.com/lutaian-fj/custom-bottom#readme",
   "directories": {
     "lib": "lib"
   },
